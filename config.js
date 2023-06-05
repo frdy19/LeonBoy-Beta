@@ -59,8 +59,8 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62823504965325'
-global.nomorown = '62823504965328'
+global.nomorbot = '62823504965328'
+global.nomorown = '6282254001005'
 global.namebot = 'ASTROBOT V.3.4'
 global.nameown = 'Its Me Ferr'
 
@@ -80,7 +80,7 @@ global.lolkey = pickRandom(["e54205a4ca2caa368cc067bb", "8e66d0934cf741bfd2182c1
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62823504965328', 'Its Me Ferr', true],
+  ['6282254001005', 'Its Me Ferr', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -130,14 +130,14 @@ global.APIKeys = {
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ASTROBOT MD 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ASTROBOT MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = "⫹⫺ ASTROBOT MD"
+global.wm = '                「 LEONBOT MD 」'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘LEONBOT MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = "⫹⫺ LEONBOT MD"
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By FERRXD`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = "ASTROBOT MD 乂 FERRXD"
+global.author = "LEONBOT MD 乂 FERRXD"
 global.footer = 'Simple WhatsApp Bot Made By FerrXd ッ'
 /*Fake*/
 global.fsizedoc = SizeDoc()
