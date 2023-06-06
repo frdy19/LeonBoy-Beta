@@ -59,9 +59,9 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62823504965328'
-global.nomorown = '6282254001005'
-global.namebot = 'ASTROBOT V.3.4'
+global.nomorbot = '6282254001005'
+global.nomorown = '62823504965328'
+global.namebot = 'LeonBotz V.3.4'
 global.nameown = 'Its Me Ferr'
 
 /*============== Github Thanks To ==============*/
@@ -80,7 +80,7 @@ global.lolkey = pickRandom(["e54205a4ca2caa368cc067bb", "8e66d0934cf741bfd2182c1
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282254001005', 'Its Me Ferr', true],
+  ['62823504965328', 'Its Me Ferr', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
